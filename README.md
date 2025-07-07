@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on FGL
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dige945)](https://github.com/Dige945/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohanabi)](https://github.com/ohanabi/github-readme-stats)
 <!--
 **ohanabi/ohanabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
